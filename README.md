@@ -1,4 +1,4 @@
-<img align="center" src="wolf.png" alt="Sahil Rashid" width="200" />
+<img align="center" src="wolf.png" alt="Sahil Rashid" width="900" />
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sahilrashid10.sahilrashid10" />
 
