@@ -1,8 +1,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Sahil+Rashid!;"/>
+    <img src="mynew.gif" alt="My New GIF" width="200" align="right"/>
 </h1>
-<img src="mynew.gif" alt="My New GIF" width="100"/>
-
 
 <h3 align="center">A passionate software developer from Kashmir.</h3>
 
