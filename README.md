@@ -13,7 +13,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **MERN STACK PROJECT ADN DSA**
+ 🔭 I’m currently working on **MERN STACK PROJECT AND DSA**
  
  🌱 I’m currently learning **AWS**
 
