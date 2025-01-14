@@ -1,10 +1,7 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Sahil+Rashid!;" />
+    <img src="mynew.gif" alt="My New GIF" width="100"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Sahil+Rashid!;"/>
 </h1>
-
-<div align="center">
-    <img src="wolf.png" alt="Sahil Rashid" width="800"/>
-</div>
 
 <h3 align="center">A passionate software developer from Kashmir.</h3>
 
@@ -53,8 +50,7 @@
     <br/>
     <img width=325 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=sahilrashid10&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages"/>
 </div>
-<div align="center>
+<div align="center">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=sahilrashid10.sahilrashid10" alt="Profile Views"/>
     <br/>
 </div>
-
