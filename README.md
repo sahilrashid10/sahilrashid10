@@ -1,11 +1,11 @@
-<div>
-<img align="right" src="wolf.png" alt="Sahil Rashid" width="800" />
-
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sahilrashid10.sahilrashid10" />
-</div>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Sahil+Rashid!;" />
 </h1>
+<div align="center">
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=sahilrashid10.sahilrashid10" />
+
+<img align="" src="wolf.png" alt="Sahil Rashid" width="800" />
+</div>
 
 <h3 align="center">A passionate software developer from Kashmir.</h3>
 
