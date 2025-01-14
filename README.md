@@ -8,7 +8,7 @@
 ---
 
 <div align="center">
-    <p>🔭 Currently working on: <strong>MERN STACK PROJECT AND DSA</strong></p>
+    <p>🔭 Currently working on: <strong>DSA</strong></p>
     <p>🌱 Currently learning: <strong>AWS</strong></p>
     <p>💬 Ask me about: <strong>C++, Python, Data Structures</strong> or <a href="https://github.com/sahilrashid10/sahilrashid10/issues">anything here</a></p>
     <p>⚡ Fun fact: <em>Bananas are berries, but strawberries aren't! 🍌🍓</em></p>
