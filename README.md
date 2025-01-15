@@ -1,13 +1,13 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Sahil+Rashid!;"/>
 </h1>
-<img src="mynew.gif" alt="My New GIF" width="200"/>
 
 <h3 align="center">A passionate software developer from Kashmir.</h3>
 
 ---
 
-<div align="center">
+<div>
+    <img src="mynew.gif" alt="My New GIF" width="200" align="right"/>
     <p>🔭 Currently working on: <strong>DSA</strong></p>
     <p>🌱 Currently learning: <strong>AWS</strong></p>
     <p>💬 Ask me about: <strong>C++, Python, Data Structures</strong> or <a href="https://github.com/sahilrashid10/sahilrashid10/issues">anything here</a></p>
