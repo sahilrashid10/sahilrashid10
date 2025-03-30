@@ -6,6 +6,7 @@
 <h3 style="color:#4A90E2; font-weight: bold;">
     A Passionate Software Developer from Kashmir
 </h3>
+<img align="right" src="mynew.gif" alt="Coding Animation" width="150" height = "150px" style="border-radius: 10px;"/>
 <!-- About Section -->
 <div style="display: flex; align-items: center; gap: 20px; padding: 20px;">
     <div>
