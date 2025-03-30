@@ -1,4 +1,6 @@
 <!-- Profile Header -->
+<img src="wolf.png" alt="wolf" style="border-radius: 10px;"/>
+<hr>
 <h1>
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Sahil+Rashid!;" />
 </h1>
@@ -6,7 +8,6 @@
 <h3 style="color:#4A90E2; font-weight: bold;">
     A Passionate Software Developer from Kashmir
 </h3>
-<img align="right" src="mynew.gif" alt="Coding Animation" width="150" height = "150px" style="border-radius: 10px;"/>
 <!-- About Section -->
 <div style="display: flex; align-items: center; gap: 20px; padding: 20px;">
     <div>
