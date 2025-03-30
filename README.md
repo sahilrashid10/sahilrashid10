@@ -19,7 +19,7 @@
 </div>
 
 <!-- Let's Connect Section -->
-<h2 align="center" style="margin-top: 40px;">📫 Let's Connect! 📫</h2>
+<h2 align="center" style="margin-top: 40px;">Let's Connect!</h2>
 
 <div style="display: flex; justify-content: center; gap: 15px; padding: 10px;">
     <a href="mailto:srashid_be22@thapar.edu">
@@ -34,7 +34,7 @@
 </div>
 
 <!-- Tech Stack Section -->
-<h2 align="center" style="margin-top: 40px;">⚒️ Tech Stack ⚒️</h2>
+<h2 align="center" style="margin-top: 40px;">Tech Stack </h2>
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px; padding: 20px;">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" alt="Frontend & Tools"/>
@@ -42,14 +42,14 @@
 </div>
 
 <!-- GitHub Contribution Snake -->
-<h2 align="center" style="margin-top: 40px;">🐍 GitHub Contribution Snake 🐍</h2>
+<h2 align="center" style="margin-top: 40px;"> GitHub Contribution Snake </h2>
 
 <div align="center">
     <img src="https://github.com/sahilrashid10/sahilrashid10/blob/output/github-snake-dark.svg" alt="GitHub Contribution Snake"/>
 </div>
 
 <!-- GitHub Stats -->
-<h2 align="center" style="margin-top: 40px;">📊 GitHub Stats 📊</h2>
+<h2 align="center" style="margin-top: 40px;"> GitHub Stats </h2>
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; padding: 20px;">
     <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=sahilrashid10&count_private=true&theme=react&border_radius=10" alt="GitHub Streak Stats"/>
