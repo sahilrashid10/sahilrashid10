@@ -1,15 +1,13 @@
 <!-- Profile Header -->
-<h1 align="center">
+<h1>
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Sahil+Rashid!;" />
 </h1>
 
-<h3 align="center" style="color:#4A90E2; font-weight: bold;">
+<h3 style="color:#4A90E2; font-weight: bold;">
     A Passionate Software Developer from Kashmir
 </h3>
-
 <!-- About Section -->
 <div style="display: flex; align-items: center; gap: 20px; padding: 20px;">
-    <img src="mynew.gif" alt="Coding Animation" width="150" style="border-radius: 100px;"/>
     <div>
         <p>🔭 <strong>Currently Working On:</strong> Data Structures & Algorithms (DSA)</p>
         <p>🌱 <strong>Currently Learning:</strong> AWS Cloud Technologies</p>
