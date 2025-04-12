@@ -70,7 +70,7 @@
 
 ---
 ```python
-class AIEngineer:
+class SoftwareEngineer:
     def __init__(self):
         self.name = "Sahil Rashid"
         self.current_focus = "Generative AI & LLMs"
