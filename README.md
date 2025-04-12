@@ -73,11 +73,11 @@
 class SoftwareEngineer:
     def __init__(self):
         self.name = "Sahil Rashid"
-        self.current_focus = "Generative AI & LLMs"
+        self.current_focus = "Backend development and AWS"
         self.interests = [
             "Software Engineering",
             "Web Development",
-            "Creative Coding",
+            "Competitive Coding",
             "Open-source Contributions",
             "Tech Innovation",
             "Athletics"
