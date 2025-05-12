@@ -13,7 +13,6 @@
     <div>
         <p><strong>Currently Working On:</strong> Data Structures & Algorithms (DSA)</p>
         <p><strong>Currently Learning:</strong> AWS Cloud Technologies</p>
-        <p><strong>Ask Me About:</strong> C++, Python, Data Structures, or <a href="https://github.com/sahilrashid10/sahilrashid10/issues">anything here</a></p>
         <p><strong>Fun Fact:</strong> Bananas are berries, but strawberries aren't! 🍓</p>
     </div>
 </div>
