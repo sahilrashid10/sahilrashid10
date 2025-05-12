@@ -96,9 +96,10 @@ me = Aspiring Software Engineer()
 <div align="center">
     <img src="https://github.com/sahilrashid10/sahilrashid10/blob/output/github-snake-dark.svg" alt="GitHub Contribution Snake"/>
 </div>
+<hr>
 
 <!-- GitHub Stats -->
-<h2 align="center" style="margin-top: 40px;"> GitHub Stats </h2>
+<!--<h2 align="center" style="margin-top: 40px;"> GitHub Stats </h2>
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; padding: 20px;">
     <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=sahilrashid10&count_private=true&theme=react&border_radius=10" alt="GitHub Streak Stats"/>
@@ -107,9 +108,15 @@ me = Aspiring Software Engineer()
 
 <div align="center">
     <img width=325 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=sahilrashid10&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages"/>
-</div>
+</div>  
+-->
+<!-- GitHub Stats and Top Languages -->
+<!-- GitHub Stats and Top Languages -->
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=sahilrashid10&show_icons=true&theme=tokyonight"/>
+<img align="right" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilrashid10&hide_progress=true&show_icons=true&theme=tokyonight"/>
 
-<!-- Profile Views -->
-<div align="center" style="margin-top: 30px;">
+<!-- Clear floats to push the div below both images 
+<div style="clear: both; margin-top: 20px;" align="center">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=sahilrashid10.sahilrashid10" alt="Profile Views"/>
 </div>
+
