@@ -112,9 +112,14 @@ me = Aspiring Software Engineer()
 -->
 <!-- GitHub Stats and Top Languages -->
 <!-- GitHub Stats and Top Languages -->
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=sahilrashid10&show_icons=true&theme=tokyonight"/>
+<div>
+<img align="left" width="47%" src="https://bakamitai.vercel.app/api?username=sahilrashid10&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <img align="right" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilrashid10&hide_progress=true&show_icons=true&theme=tokyonight&layout=compact"/>
-
+</div>
+<br><br><br>
+<div>
+<img style="margin-top: 10%" align="right" width="100%" src="https://github-profile-trophy.vercel.app/?username=sahilrashid10&no-frame=true&theme=gruvbox&row=1&column=10"/>
+</div>
 <!-- Clear floats to push the div below both images 
 <div style="clear: both; margin-top: 20px;" align="center">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=sahilrashid10.sahilrashid10" alt="Profile Views"/>
