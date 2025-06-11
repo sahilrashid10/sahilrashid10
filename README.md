@@ -117,9 +117,23 @@ me = Aspiring Software Engineer()
 <img align="right" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilrashid10&hide_progress=true&show_icons=true&theme=tokyonight&layout=compact"/>
 </div>
 <br><br><br>
-<div>
-<img style="margin-top: 10%" align="right" width="100%" src="https://github-profile-trophy.vercel.app/?username=sahilrashid10&no-frame=true&theme=gruvbox&row=1&column=10"/>
+<div style="margin-top: 10%; text-align: center;">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=sahilrashid10&no-frame=true&theme=gruvbox&row=1&column=10"
+    style="display: inline-block; max-width: 90%; margin-bottom: 2rem;"
+    alt="Profile trophies"
+  />
 </div>
+
+<div style="text-align: center; margin-top: 3rem;">
+  <h4>Leetcode grind</h4>
+  <img
+    src="https://leetcard.jacoblin.cool/sahilrashid10?theme=catppuccinMocha&font=Archivo"
+    alt="Sahil :: Leetcode"
+    style="display: inline-block; width: 320px; margin-top: 1rem;"
+  />
+</div>
+
 <!-- Clear floats to push the div below both images 
 <div style="clear: both; margin-top: 20px;" align="center">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=sahilrashid10.sahilrashid10" alt="Profile Views"/>
