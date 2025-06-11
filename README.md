@@ -1,9 +1,12 @@
 <!-- Profile Header -->
 <img src="wolf.png" alt="wolf" style="border-radius: 10px;"/>
 <hr>
-<h1>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+There!+🐺;+I'm+Sahil+Rashid!;" />
-</h1>
+  <img
+    src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&color=005270&lines=Hi+There!+🐺;+I'm+Sahil+Rashid!;"
+    alt="Hi There! 🐺 I'm Sahil Rashid!"
+  />
+
+
 
 <h3 style="color:#4A90E2; font-weight: bold;">
     A Passionate Software Developer from Kashmir
@@ -126,6 +129,7 @@ me = Aspiring Software Engineer()
 </div>
 
 <div style="text-align: center; margin-top: 3rem;">
+<!--
   <h4>Leetcode grind</h4>
   <img
     src="https://leetcard.jacoblin.cool/sahilrashid10?theme=catppuccinMocha&font=Archivo"
@@ -133,6 +137,7 @@ me = Aspiring Software Engineer()
     style="display: inline-block; width: 320px; margin-top: 1rem;"
   />
 </div>
+-->
 
 <!-- Clear floats to push the div below both images 
 <div style="clear: both; margin-top: 20px;" align="center">
