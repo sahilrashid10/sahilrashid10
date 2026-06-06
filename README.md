@@ -75,7 +75,7 @@
 class SoftwareEngineer:
     def __init__(self):
         self.name = "Sahil Rashid"
-        self.current_focus = "Backend development and AWS"
+        self.current_focus = "MAQ Software internship as an ASE."
         self.interests = [
             "Software Engineering",
             "Web Development",
