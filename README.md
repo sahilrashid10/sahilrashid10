@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<img src="wolf.png" alt="wolf" style="border-radius: 10px;"/>
+<img src="github_banner.gif" alt="wolf" style="border-radius: 10px;"/>
 <hr>
   <img
     src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&color=005270&lines=Hi+There!+🐺;+I'm+Sahil+Rashid!;"
