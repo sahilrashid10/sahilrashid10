@@ -1,3 +1,4 @@
+
 <!-- Profile Header -->
 <img src="github_banner.gif" alt="wolf" style="border-radius: 10px;"/>
 <hr>
@@ -6,28 +7,28 @@
     alt="Hi There! 🐺 I'm Sahil Rashid!"
   />
 
-
-
 <h3 style="color:#4A90E2; font-weight: bold;">
-    A Passionate Software Developer from Kashmir
+    Data Engineer | Agentic AI Engineer | Data Analytics
 </h3>
+
 <!-- About Section -->
 <div style="display: flex; align-items: center; gap: 20px; padding: 20px;">
     <div>
-        <p><strong>Currently Working On:</strong> Data Structures & Algorithms (DSA)</p>
-        <p><strong>Currently Learning:</strong> AWS Cloud Technologies</p>
+        <p><strong>Currently Working On:</strong> Enterprise Data Engineering solutions using Microsoft Fabric, Azure Databricks and PySpark.</p>
+        <p><strong>Currently Exploring:</strong> Agentic AI, RAG, Multi-Agent Systems and AI-powered solutions.</p>
+        <p><strong>Interests:</strong> Distributed Systems, Data Architecture, Generative AI, Data Analytics and Problem Solving.</p>
         <p><strong>Fun Fact:</strong> Bananas are berries, but strawberries aren't! 🍓</p>
     </div>
 </div>
 
 <!-- Let's Connect Section -->
-<h2  style="margin-top: 40px;">Let's Connect!</h2>
+<h2 style="margin-top: 40px;">Let's Connect!</h2>
 
 <div style="display: flex; justify-content: center; gap: 15px; padding: 10px;">
-    <a href="mailto:srashid_be22@thapar.edu">
+    <a href="mailto:sahilrashidganaie@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
     </a>
-    <a href="https://linkedin.com/in/sahil-rashid-211304323/" target="_blank">
+    <a href="https://linkedin.com/in/sahilrashid10" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="https://sahilrashid10.github.io" target="_blank">
@@ -36,61 +37,94 @@
 </div>
 
 <!-- Tech Stack Section -->
-<!--<h2 align="center" style="margin-top: 40px;">Tech Stack </h2>
 
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px; padding: 20px;">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" alt="Frontend & Tools"/>
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,mongodb,c,mysql" alt="Backend & Languages"/>
-</div>
--->
 # 💻 Tech <span style="color:#FF9100">Stack</span>:
 
+### **Data Engineering & Big Data:**
+
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-742774?style=for-the-badge&logo=microsoftfabric&logoColor=white)
+![Azure Databricks](https://img.shields.io/badge/Azure_Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Azure Data Factory](https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta_Lake-003366?style=for-the-badge&logo=databricks&logoColor=white)
+
+### **Agentic AI & Generative AI:**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
+![Semantic Kernel](https://img.shields.io/badge/Semantic_Kernel-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge)
+![FastMCP](https://img.shields.io/badge/FastMCP-444444?style=for-the-badge&logo=python&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-6A5ACD?style=for-the-badge)
+![Vector Search](https://img.shields.io/badge/Vector_Search-008080?style=for-the-badge)
+
+### **Data Analytics & Business Intelligence:**
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power_Query-217346?style=for-the-badge&logo=microsoft&logoColor=white)
+![Data Modeling](https://img.shields.io/badge/Data_Modeling-00599C?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
 ### **Programming Languages:**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PLSQL](https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-### **Web Development:**
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![PLSQL](https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black)
+![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-<!--
-### **Data Science:**
-![Pandas](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
--->
-### **DevOps & Cloud:**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Amazon Web Services](https://img.shields.io/badge/AWS-FF9900.svg?style=for-the-badge&logo=Amazon_AWS&logoColor=white)<!-- ![CloudFlare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)-->
+### **Databases & Storage:**
 
-### **Databases:**
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) <!--![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) -->
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge)
+
+### **Cloud & DevOps:**
+
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=Amazon_AWS&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### **Operating Systems:**
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ---
+
 ```python
 class SoftwareEngineer:
     def __init__(self):
         self.name = "Sahil Rashid"
-        self.current_focus = "Agentic AI, ETL in fabric."
+        self.role = "Software Engineer I"
+        self.current_focus = [
+            "Data Engineering",
+            "Microsoft Fabric",
+            "Azure Databricks",
+            "Agentic AI"
+        ]
         self.interests = [
-            "Software Engineering",
-            "Web Development",
-            "Competitive Coding",
-            "Open-source Contributions",
-            "Tech Innovation",
-            "Athletics"
+            "Distributed Systems",
+            "Data Architecture",
+            "Generative AI",
+            "Multi-Agent Systems",
+            "Data Analytics",
+            "Problem Solving",
             "Football"
         ]
-    
-    def hometown(self):
-        return "HILLER BAHAI KOKERNAG ANANTNAG KASHMIR" 
-    
 
-me = Aspiring Software Engineer()
+    def hometown(self):
+        return "HILLER BAHAI KOKERNAG ANANTNAG KASHMIR"
+
+
+me = SoftwareEngineer()
 ```
 
 <!-- GitHub Contribution Snake -->
@@ -102,24 +136,12 @@ me = Aspiring Software Engineer()
 <hr>
 
 <!-- GitHub Stats -->
-<!--<h2 align="center" style="margin-top: 40px;"> GitHub Stats </h2>
-
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; padding: 20px;">
-    <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=sahilrashid10&count_private=true&theme=react&border_radius=10" alt="GitHub Streak Stats"/>
-    <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=sahilrashid10&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats"/>
-</div>
-
-<div align="center">
-    <img width=325 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=sahilrashid10&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages"/>
-</div>  
--->
-<!-- GitHub Stats and Top Languages -->
-<!-- GitHub Stats and Top Languages -->
 <div>
 <img align="left" width="47%" src="https://bakamitai.vercel.app/api?username=sahilrashid10&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <img align="right" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilrashid10&hide_progress=true&show_icons=true&theme=tokyonight&layout=compact"/>
 </div>
 <br><br><br>
+
 <div style="margin-top: 10%; text-align: center;">
   <img
     src="https://github-profile-trophy.vercel.app/?username=sahilrashid10&no-frame=true&theme=gruvbox&row=1&column=10"
@@ -139,8 +161,7 @@ me = Aspiring Software Engineer()
 </div>
 -->
 
-<!-- Clear floats to push the div below both images 
+<!-- Clear floats to push the div below both images -->
 <div style="clear: both; margin-top: 20px;" align="center">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=sahilrashid10.sahilrashid10" alt="Profile Views"/>
 </div>
-
